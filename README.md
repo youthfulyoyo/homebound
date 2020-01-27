@@ -1,2 +1,3 @@
 # homebound
-Game Design Projecy
+Game Design Project
+
